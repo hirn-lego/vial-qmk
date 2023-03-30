@@ -36,3 +36,7 @@
 
 /* Enable caps-lock LED */
 #define CAPS_LOCK_LED_INDEX 49
+
+
+#define LSPO_KEYS KC_LSFT,KC_LSFT,KC_8
+#define RSPC_KEYS KC_RSFT,KC_RSFT,KC_9
